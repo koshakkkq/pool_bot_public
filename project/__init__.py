@@ -1,0 +1,1 @@
+from project.handler_register import register_handlers
